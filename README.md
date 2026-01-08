@@ -1,4 +1,8 @@
-## Hi there 👋
+# Hello there!
+If you got here, then it must have been linked on one of my pages! If so, let me talk about myself and my dni!
+
+## General Info
+I go by many aliases online which you can us, so if you came from my Discord, you either know me as Abel, Brazzy, or Jay, all names I've used based on profiles pictures!
 
 <!--
 **abelfromadam/abelfromadam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
