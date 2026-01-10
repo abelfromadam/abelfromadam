@@ -1,6 +1,9 @@
 # Hello there!
 If you got here, then it must have been linked on one of my pages! If so, let me talk about myself and my dni!
 
+## Disclaimer
+I am not and do not claim to be anyone who I don't link in this README.md or my other links unless I stated otherwise. This includes other people who have similar profiles or pages to me. With that out of the way, let's begin!
+
 ## General Info
 I go by many aliases online which you can us, so if you came from my Discord, you either know me as Abel, Brazzy, or Jay, all names I've used based on profiles pictures!
 
